@@ -1,0 +1,6 @@
+name = "dashboardsacmg"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+N8N_WEBHOOK_URL = "https://hub.saccheilchile.work/webhook/mg-dashboard"

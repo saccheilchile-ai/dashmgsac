@@ -1,0 +1,13 @@
+{
+  "name": "mg-hub-worker",
+  "version": "1.0.0",
+  "description": "MG Hub Intelligence Center — Cloudflare Worker",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
